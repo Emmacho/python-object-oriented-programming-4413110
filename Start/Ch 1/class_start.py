@@ -3,7 +3,9 @@
 
 
 class Book:
+     
     # TODO: Properties defined at the class level are shared by all instances
+
 
     # TODO: double-underscore properties are hidden from other classes
 
@@ -27,3 +29,5 @@ class Book:
 
 
 # TODO: Use the static method to access a singleton object
+
+print ("infortmation")
