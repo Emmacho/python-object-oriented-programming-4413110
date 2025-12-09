@@ -37,4 +37,5 @@ class Square(GraphicShape):
 c = Circle(10)
 print(c.calc_area())
 s = Square(12)
+
 print(s.calc_area())
